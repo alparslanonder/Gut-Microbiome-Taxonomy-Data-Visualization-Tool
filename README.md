@@ -105,6 +105,9 @@ In our study, the analysis result for the gut microbiome was given in this forma
 ### Visualization
 The tool generates a hierarchical semi-pie chart displaying the normalized contributions of each taxon.
 
+### Output Example
+![Example](https://github.com/user-attachments/assets/d52bf663-5d2d-4d57-8978-3cda70f1f88e)
+
 ## License
 Feel free to use, modify, and distribute it.
 
