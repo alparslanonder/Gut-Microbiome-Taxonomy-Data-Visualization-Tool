@@ -1,4 +1,4 @@
-# Gut Microbiome Taxonomy Data Visualization Tool
+# Hierarchical Taxonomy Data Visualization Tool
 
 In a multidisciplinary brain-gut axis study we needed a tool to demonstrate the gut microbiome result in Krona style. Since Krona is not working in Microsoft properly, we developed this tool. This Python-based tool provides a comprehensive solution for processing, sorting, and visualizing hierarchical taxonomy data from an Excel file. It is designed to enable insightful visualization in the form of hierarchical pie charts, for conditional studies.
 
